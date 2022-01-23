@@ -6,6 +6,7 @@ TODO: Meh, maybe private this but there's wealth in knowledge sharing and transp
 - 1,300+ interviews conducted at karat on coding, code review, system design, mobile, machine learning, BLAH, the list goes on. Experiments with creating questions on the content team.
 - 10+ interviews in system design at Chime for midlevel to senior roles. Taking the initiative to generate more interviewing content at Chime, until I quit.
 - 20-30+ interviews at Intuit on OOD and coding. Also helped give feedback to content team. 
+- I doubled my income every year and went from $50k -> $400k (4 yrs) despite being a C- student, almost dropping out, and my support system telling me I wasn't intelligent and that I'll never make it. I may not know what people from coding bootcamps or are self-taught feel like but I my experiences are adjacent. I am a good coach for people who are at a stage in their life where they are willing to make space and time to do whatever training necessary to make a transition that improves their financial wealth. In addition to giving them a new sense of confidence.
 
 # Standard Initial Questions
 - What was your past level and experience(s)?
