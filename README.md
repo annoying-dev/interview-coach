@@ -5,9 +5,9 @@ TODO: Meh, maybe private this but there's wealth in knowledge sharing and transp
 # My Credentials
 - 1,300+ interviews conducted at karat on coding, system design and knowledge questions
 - 200+ code review
-- 10+ interviews in system design at Chime for midlevel to senior roles. Taking the initiative to generate more interviewing content at Chime, until I quit.
-- 20-30+ interviews at Intuit on OOD and coding. Also helped give feedback to content team. 
-- $50k -> $450k+ (4 yrs) despite being a C- student, almost dropping out, and my support system telling me I wasn't intelligent and that I'll never make it. I may not know what people who are from coding bootcamps or are self-taught feel like, but my experiences are adjacent. I am a relevant coach for people who are at a stage in their life where they are willing to make space and time to do whatever training necessary to make a transition that improves their financial wealth. In addition to giving them a new sense of confidence.
+- 10+ interviews in system design at Chime for midlevel to senior roles. Taking the initiative to generate more interviewing content at Chime, until I quit --soon baby girl. soon.
+- 20-30+ interviews at Intuit on OOD and coding for interns and new grad. Also helped give feedback to content team for their shitty "creative content" and mimicking Karat's interview style. That's called plagirism folks. Or "it's just business" fuckery. 
+- $50k -> $450k+ (4 yrs) despite being a C- student, almost dropping out, and my support system telling me I wasn't intelligent and that I'll never make it. I may not know what people who are from coding bootcamps or are self-taught feel like, but my experiences are adjacent. I am a relevant coach for people who are at a stage in their life where they are willing to make space and time to do whatever training necessary to make a transition that improves their financial wealth. In addition to giving them a new sense of confidence. But seriously, If I needed the money and had to do one more jump, I could likely do $500 - $600k before tapping out of tech and live off of investments. The responsibility/time commitment to pay is disproportionate at this point tho so not worth the coportoate bullshit. 
 
 # Standard Initial Questions
 - What was your past level and experience(s)?
@@ -37,11 +37,18 @@ The problem usually breaks down to:
 - TripleByte
 
 # Job Boards
+## Game Changers
+- https://4dayweek.io/ (FAVE - cause no one fucking works on friday meng. 4-6 hours a day mon-thurs. 2hrs/day if ur archaic fintech)
+- https://weworkremotely.com/ (For the remote lovin' + intl homies)
+- Sourcing Agency (neg stigma but surprisingly some were good. Should rebrand similar to HR => People Ops)
+
+## Peasants
 - TripleByte (TBD)
 - AngelList (fiddy fiddy)
 - HIRED (general, meh)
 - Underdog.io (startups)
-- Sourcing Agency (neg stigma but surprisingly some were good. Should rebrand similar to HR => People Ops)
+- interviewing io (amazing for mocks, not so much for job search)
+- LinkedIn (rookie.)
 
 # Salary
 - levels.fyi
