@@ -30,15 +30,18 @@ You have to remember that the way people perceive themselves is often times not 
 # Main Problem Areas 🛠️
 - The hiring bar (differs by company)
 - Dunning–Kruger effect (Overestimate/Understimate coding and system design skills)
-- Applying to jobs is soul sucking and so if failing interviews. Secret sauce is resilience and persistence, baby.
-- they don't have time or are misinformed about the market. Many stories of no time, wanting stability and hard to filter companies on their own, being grateful to even have a job, etc. 
-- some people just want money and if they were just honest with themselves about it, I could make them 2x, 3x their income. Money can't buy happiness but it helps bruh.
+- Applying to jobs is soul sucking. Delegate.
+- People don't like feeling bad: rejection, failure, anxious, etc. They can actually turn this into fuel to power their growth tho. Struggle is good.
+- No transparency or general measures on what progress looks when studying system design and coding.
 
 # Observations 👀
 - There is a stark contrast when coaching women vs men
+- People think they can cram system design like they do LC but it's so far removed from the reality. Adjust expectations
 - People don't have as much time as they think, and they don't realize the time commitment. They need to strategize their job search and learning.
 - A person's environment and people they surround themselves with, especially their partner if they have one, have A SHIT TON of influence on how they grow.
 - The smartest people I've worked with are nearly impossible to convince to move jobs. Why is that? On an individual level I know why, but can are there any common characteristics?
+- Many stories of no time, wanting stability and hard to filter companies on their own, being grateful to even have a job, etc.
+- People tend to ramble when they don't know something. Kinda like grasping at straws. It's important to not cut them off. Don't spaz out and let them finish.
 
 # TODO
 The more specific and concrete you are, the better. None of that frou frou bullshit. Simple words are best; mind the LCD. Don't you dare use buzzwords. MICROSERVICE. 💀
@@ -49,6 +52,7 @@ The more specific and concrete you are, the better. None of that frou frou bulls
 - create a loose guide on what measured progress in coding looks like
 - create a loose guide on what measured progress in system design looks like
 - create inventory of helpful links to system design and coding patterns. standard.
+- negotiation from POV of recruiters who get trained on manipulative BS to close a deal and how to use honesty as a leverage. Should cover finance team, budgeting, head count, blah.
 - Take Home Tests, LC Interview, OOD, OA, Trivia Bullshit, Brain Teaser fuckery
 - Check back in with Aline as interviewing io expands
 
