@@ -18,7 +18,8 @@ You have to remember that the way people perceive themselves is often times not 
 - 1,300+ interviews conducted at karat & fintech on coding, system design and knowledge questions
 - 300+ code review & mentoring
 - Content developer for LC hazing style questions. sadly.
-- $50k -> $450k+ (4 yrs)
+- $50k -> $475k+ (4 yrs)
+- Private coaching (2+) to at least double their salary. I can actually bring someone who has the time, commitment, and motivation from mid-level to senior w/ TC $400k - $600k. It would probs take 3 - 6 months depending on their current experience, and it would require all of my emotional energy so probs not a good idea. Getting people to entry or mid-level w/ TC $120k - $300k is much, much easier.
 
 # Standard Initial Questions 🤔
 - What was your past level and experience(s)?
@@ -53,6 +54,7 @@ The more specific and concrete you are, the better. None of that frou frou bulls
 - create a loose guide on what measured progress in system design looks like
 - create inventory of helpful links to system design and coding patterns. standard.
 - negotiation from POV of recruiters who get trained on manipulative BS to close a deal and how to use honesty as a leverage. Should cover finance team, budgeting, head count, blah.
+- Difference between contract work/mentality and FTE
 - Take Home Tests, LC Interview, OOD, OA, Trivia Bullshit, Brain Teaser fuckery
 - Check back in with Aline as interviewing io expands
 
