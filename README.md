@@ -59,14 +59,17 @@ The more specific and concrete you are, the better. None of that frou frou bulls
 - Check back in with Aline as interviewing io expands
 
 # Books 📚
+- Emotional Sensitivity and Intensity by Imi Lo
 - Influence by Robert Cialdini
 - Non Violent Communication by Marshall B Rosenberg
 - The Defining Decade by Meg Jay
 - The Art of War Sun Tzu
+- Never Split the Difference (Chris Voss)
+- Game Theory (Need to find the right author)
 - Pragmatism by William James (Double check this is the right book. Pragmatism back then carried a different meaning than how it is used today)
 
 # Other materials 📝
 - Carl Jung & The Psychology of Self-Sabotage
 - There was a book on shadow people and how to identify them in life. Look in YT history
-- Life Coach (ICF) ~5k, ADHD Coach? 
+- Life Coach (ICF) ~5k, ADHD Coach? The basic certification takes like 6 months
 - Humor/Comedy books or classes. Cause people will shoot you if you straight up tell them like it is
