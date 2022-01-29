@@ -1,7 +1,7 @@
-# Holistic Interview Coaching
+# Holistic Interview Coaching ⭐
 Info dump to coach peeps on LC hazing IVs &amp; System Design. Cause my chaotic methods and seemingly random ramblings will get lost in the wind if I don't have some framework/guide. People tend to refrain of being honest with themselves and others as a form of protection, preservation of identity, or simply because they never had to articulate their unfiltered desires to someone. I need to create a safe space for them to bring their whole selves to the table. Then I can point out the key they had all along to unlock their potential. This is very important. You can give people all the answers in the world and it will fall upon deaf ears.
 
-# Need to Figure This Out Quickly
+# Need to Figure This Out Quickly ❗
 You have to remember that the way people perceive themselves is often times not an accurate depiction of who they are. People find themselves through art: books, music, movies. That may be one path to getting [the answers](https://www.youtube.com/watch?v=0XhSMKL8jqI) you're looking for. 
 - Intrinsically or Extrinsically motivated?
 - What does their home life/responsibilities look like?
