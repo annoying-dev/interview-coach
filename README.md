@@ -73,3 +73,5 @@ The more specific and concrete you are, the better. None of that frou frou bulls
 - There was a book on shadow people and how to identify them in life. Look in YT history
 - Life Coach (ICF) ~5k, ADHD Coach? The basic certification takes like 6 months
 - Humor/Comedy books or classes. Cause people will shoot you if you straight up tell them like it is
+- [Work Anxiety](https://www.psychologytoday.com/us/blog/anxiety-work/201805/anxiety-and-the-here-and-now)
+- [Remote Work Culture](https://www.fearlessculture.design/blog-posts/5-shifts-to-build-a-strong-hybrid-work-culture)
